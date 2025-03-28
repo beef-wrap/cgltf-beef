@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "limits": "c",
+        "assert.h": "c",
+        "string.h": "c",
+        "float.h": "c",
+        "cgltf.h": "c"
+    }
+}

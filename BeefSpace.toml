@@ -1,0 +1,11 @@
+FileVersion = 1
+Projects = {example = {Path = "example"}, cgltf-beef = {Path = "."}}
+
+[Workspace]
+StartupProject = "example"
+
+[Configs.Test.Win32]
+ConfigSelections = {example = {Config = "Debug"}}
+
+[Configs.Test.Win64]
+ConfigSelections = {example = {Config = "Debug"}}

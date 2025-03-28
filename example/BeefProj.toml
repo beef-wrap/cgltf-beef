@@ -1,0 +1,8 @@
+FileVersion = 1
+Dependencies = {corlib = "*", cgltf-beef = "*"}
+
+[Project]
+Name = "example"
+StartupObject = "example.Program"
+
+[Configs.Debug.Win64]
